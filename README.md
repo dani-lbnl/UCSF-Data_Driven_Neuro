@@ -7,3 +7,5 @@ This is currently organized into three main sections.
 * A tutorial on [Image Processing](image_processing/) with fMRI. Including topics such as segmentation, preprocessing, and data manipulation.
 * New advancements on fMRI and [standardized project structure for doing and sharing fmri work](https://github.com/fatmai/cookiecutter-fmri)
 * A tutorial on [Deep Learning](deep_learning/) using two popular packages in python: [`caffe`](deep_learning/caffe) and [`tensorflow`](deep_learning/tensorflow).
+
+Need a refresh on git, shell and/or python? Check [Software Carpentry](https://software-carpentry.org/) courses.
